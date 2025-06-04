@@ -4613,34 +4613,34 @@ Source: www.neutrik.com/</description>
 </library>
 <library name="Eigene-Rietig" urn="urn:adsk.eagle:library:40964436">
 <packages>
-<package name="MODULE_DMX_ISO" urn="urn:adsk.eagle:footprint:45225818/1" library_version="96" library_locally_modified="yes">
-<wire x1="22.555" y1="1.27" x2="23.19" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="23.19" y1="-0.635" x2="22.555" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="23.19" y1="0.635" x2="23.825" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="25.095" y1="1.27" x2="25.73" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="25.73" y1="-0.635" x2="25.095" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="25.095" y1="-1.27" x2="23.825" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="23.825" y1="-1.27" x2="23.19" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="20.65" y1="0.635" x2="20.65" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="21.285" y1="1.27" x2="20.65" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="20.65" y1="-0.635" x2="21.285" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="22.555" y1="-1.27" x2="21.285" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="25.73" y1="0.635" x2="26.365" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="27.635" y1="1.27" x2="28.27" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="28.27" y1="-0.635" x2="27.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="27.635" y1="-1.27" x2="26.365" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="26.365" y1="-1.27" x2="25.73" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="30.175" y1="1.27" x2="30.81" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="30.81" y1="-0.635" x2="30.175" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="30.81" y1="0.635" x2="31.445" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="32.715" y1="1.27" x2="33.35" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="33.35" y1="0.635" x2="33.35" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="33.35" y1="-0.635" x2="32.715" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="32.715" y1="-1.27" x2="31.445" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="31.445" y1="-1.27" x2="30.81" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="28.905" y1="1.27" x2="28.27" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="28.27" y1="-0.635" x2="28.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="30.175" y1="-1.27" x2="28.905" y2="-1.27" width="0.1524" layer="21"/>
+<package name="MODULE_DMX_ISO" urn="urn:adsk.eagle:footprint:45225818/1" locally_modified="yes" library_version="96" library_locally_modified="yes">
+<wire x1="23.485" y1="1.27" x2="24.12" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="24.12" y1="-0.635" x2="23.485" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="24.12" y1="0.635" x2="24.755" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="26.025" y1="1.27" x2="26.66" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="26.66" y1="-0.635" x2="26.025" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="26.025" y1="-1.27" x2="24.755" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="24.755" y1="-1.27" x2="24.12" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="21.58" y1="0.635" x2="21.58" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="22.215" y1="1.27" x2="21.58" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="21.58" y1="-0.635" x2="22.215" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="23.485" y1="-1.27" x2="22.215" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="26.66" y1="0.635" x2="27.295" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="28.565" y1="1.27" x2="29.2" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="29.2" y1="-0.635" x2="28.565" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="28.565" y1="-1.27" x2="27.295" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="27.295" y1="-1.27" x2="26.66" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="31.105" y1="1.27" x2="31.74" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="31.74" y1="-0.635" x2="31.105" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="31.74" y1="0.635" x2="32.375" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="33.645" y1="1.27" x2="34.28" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="34.28" y1="0.635" x2="34.28" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="34.28" y1="-0.635" x2="33.645" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="33.645" y1="-1.27" x2="32.375" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="32.375" y1="-1.27" x2="31.74" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="29.835" y1="1.27" x2="29.2" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="29.2" y1="-0.635" x2="29.835" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="31.105" y1="-1.27" x2="29.835" y2="-1.27" width="0.1524" layer="21"/>
 <wire x1="-3.175" y1="1.27" x2="-1.905" y2="1.27" width="0.1524" layer="21"/>
 <wire x1="-1.905" y1="1.27" x2="-1.27" y2="0.635" width="0.1524" layer="21"/>
 <wire x1="-1.27" y1="-0.635" x2="-1.905" y2="-1.27" width="0.1524" layer="21"/>
@@ -4665,23 +4665,23 @@ Source: www.neutrik.com/</description>
 <wire x1="35" y1="4.5" x2="35" y2="-5" width="0.1524" layer="21"/>
 <wire x1="35" y1="-5" x2="-5" y2="-5" width="0.1524" layer="21"/>
 <wire x1="-5" y1="-5" x2="-5" y2="4.5" width="0.1524" layer="21"/>
-<pad name="1" x="21.92" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="2" x="24.46" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="3" x="27" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="4" x="29.54" y="0" drill="1.016" shape="long" rot="R90"/>
-<pad name="5" x="32.08" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="1" x="22.85" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="2" x="25.39" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="3" x="27.93" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="4" x="30.47" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="5" x="33.01" y="0" drill="1.016" shape="long" rot="R90"/>
 <pad name="6" x="-2.54" y="0" drill="1.016" shape="long" rot="R90"/>
 <pad name="7" x="0" y="0" drill="1.016" shape="long" rot="R90"/>
 <pad name="8" x="2.54" y="0" drill="1.016" shape="long" rot="R90"/>
-<rectangle x1="24.206" y1="-0.254" x2="24.714" y2="0.254" layer="51"/>
-<rectangle x1="21.666" y1="-0.254" x2="22.174" y2="0.254" layer="51"/>
-<rectangle x1="26.746" y1="-0.254" x2="27.254" y2="0.254" layer="51"/>
-<rectangle x1="31.826" y1="-0.254" x2="32.334" y2="0.254" layer="51"/>
-<rectangle x1="29.286" y1="-0.254" x2="29.794" y2="0.254" layer="51"/>
+<rectangle x1="25.136" y1="-0.254" x2="25.644" y2="0.254" layer="51"/>
+<rectangle x1="22.596" y1="-0.254" x2="23.104" y2="0.254" layer="51"/>
+<rectangle x1="27.676" y1="-0.254" x2="28.184" y2="0.254" layer="51"/>
+<rectangle x1="32.756" y1="-0.254" x2="33.264" y2="0.254" layer="51"/>
+<rectangle x1="30.216" y1="-0.254" x2="30.724" y2="0.254" layer="51"/>
 <rectangle x1="-0.254" y1="-0.254" x2="0.254" y2="0.254" layer="51"/>
 <rectangle x1="-2.794" y1="-0.254" x2="-2.286" y2="0.254" layer="51"/>
 <rectangle x1="2.286" y1="-0.254" x2="2.794" y2="0.254" layer="51"/>
-<circle x="20.65" y="-1.27" radius="0.127" width="0.127" layer="21"/>
+<circle x="21.58" y="-1.27" radius="0.127" width="0.127" layer="21"/>
 <circle x="-3.81" y="-1.27" radius="0.127" width="0.127" layer="21"/>
 <text x="-4.5" y="-4.5" size="1" layer="21" font="vector" ratio="13">Isolated DMX Transceiver</text>
 <text x="-5" y="5" size="1" layer="25" font="vector" ratio="13">&gt;NAME</text>
